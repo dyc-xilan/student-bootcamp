@@ -4,3 +4,6 @@
    torch version: 2.15.0+cpu
 4. model_id：`google/flan-t5-small`
 5. revision：0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab
+6. generation:
+   max_new_tokens: 64
+   do_sample: false
