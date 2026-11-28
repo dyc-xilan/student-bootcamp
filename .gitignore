@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# 科研项目额外忽略
+*.model
+*.bin
+*.pth
+*.weights
+data/
+output/
+results/
+__pycache__/
+*.pyc
+.env
+*.token
+*.key
